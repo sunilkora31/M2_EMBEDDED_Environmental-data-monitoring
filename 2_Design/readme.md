@@ -1,2 +1,3 @@
-Structurak diagram:
-Behavioral diagram:
+Structurak diagram;
+Behavioral diagram;
+Block daigram;
