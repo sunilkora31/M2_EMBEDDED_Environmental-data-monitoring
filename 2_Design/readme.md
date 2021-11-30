@@ -1,2 +1,4 @@
 Structurak diagram:
+
 Behavioral diagram:
+
