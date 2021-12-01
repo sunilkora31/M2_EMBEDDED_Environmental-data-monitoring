@@ -1,4 +1,5 @@
 ![code quality score](https://api.codiga.io/project/30215/score/svg)
+![cppcheck-action](https://github.com/sunilkora31/M1_PROJECT_CALCULATER/actions/workflows/cppcheck.yml/badge.svg)
 ![code grade](https://api.codiga.io/project/30215/status/svg)
 
 
