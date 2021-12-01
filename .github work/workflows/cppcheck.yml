@@ -4,13 +4,13 @@ on: [push]
 jobs:
   build:
     name: cppcheck
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: install math library
+      - name: get_cppcheck
         run:  sudo apt-get install -y libmath-libm-perl 
-      - name: Install cppcheck
-        run: sudo apt-get -y install cppcheck
+      - name: code quality
+        run: make analysis-c-3_Imolementation
         
       - name: Cppcheck code
         run: cppcheck 
