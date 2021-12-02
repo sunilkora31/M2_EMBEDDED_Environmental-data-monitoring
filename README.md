@@ -15,6 +15,7 @@ simulation;
 
 
 ### Garden environment Monitoring System ###
+
 Smart Gardening system implementation that includes :
 * autonomous irrigation
 * environment detection e.g. soil moisture, surrounding temporature, lighting conditions
